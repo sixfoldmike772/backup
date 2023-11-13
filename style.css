@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html,body{
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: #C1BAB0;
+}
+.wrapper {
+    background-color:#fff;
+   
+   
+    
+    
+    /* General horizontal line styles */
+    hr {
+     margin-bottom:2em;
+    }
+   }
+
+   .style6 {
+    padding:none;
+    border-left:none;
+    border-right:none;
+    border-top:2px solid #1C1B19;
+    width: 100vw;
+   }
+
+.navbar{
+    /* background-color: red; */
+    height: 16vh;
+    display: flex;
+    justify-content: space-between;
+   align-items: center; 
+}
+.tet{
+    font-size: 4vw;
+}
+
+.navbar,h3{
+    padding: 1vw;
+}
+
+/* About event*/
+.event{
+    /* background-color: blueviolet; */
+    height: 100%;
+    width: 100%;
+    
+}
+
+.title{
+    background-color: #1C1B19;
+    height: fit-content;
+    width: fit-content;
+   color: #C1BAB0;
+   padding: 2vw;
+   margin: 2vw;
+   margin-left: 7vw;
+   margin-top: 2%;
+  
+}
+.ss{
+    font-size: 10vw;
+}
+
+.content
+{
+    /* background-color: white; */
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin-top: 1.8vh;
+}
+
+.ch1{
+    /* background-color: red; */
+    height: fit-content;
+    width: fit-content;
+   
+}
+
+.ch1,h2{
+    font-size: 3.6vw;
+}
+
+
+
+.ct1{
+    /* background-color: blue; */
+    height: fit-content;
+    width: fit-content;
+    font-size: 1.96vw;
+}
+
+.margin{
+    border-left: 2px solid #1C1B19;
+  height: 102vh;
+    
+}
+
+.pic1{
+    width: 48vw;
+    height: 60vh;
+    
+   
+}
+
+.tagline,h1{
+    font-size: 4.5vw;
+}
+
+.rulebook{
+    background-color: green;
+    height: 100%;
+    width: 100%;
+}
+
+.img2{
+    height:25vh;
+    width: 19vw;
+    background-color: black;
+}
+
+
+
+   .rb{
+    font-size: 8vw;
+   }
+
+   .overall{
+         display: flex;
+         
+   }
+
+   .img3{
+    height: 20vh;
+    width: 20vw;
+   }
+
+   .heading{
+    background-color: #1C1B19;
+    color: #C1BAB0;
+    width: fit-content;
+    margin-left: 16%;    
+   }
+
+   .aboutedc{
+    font-size: 13vw;
+   }
+
+   .edccontent{
+    display: flex;
+    padding-top: 5vh;
+   }
+
+   .img4
+   {
+    padding: 3vw;
+    height: 100vh;
+    width: 60vw;
+    
+   
+   }
+   .ct4,h5{
+    font-size: 2.29vw;
+    padding-left: 1vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+   .fw{
+    background-color: #1C1B19;
+    color: #C1BAB0;
+    height: 50vh;
+    width: 3vw;
+    font-size: 4vw;
+   }
